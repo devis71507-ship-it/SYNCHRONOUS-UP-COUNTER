@@ -53,15 +53,29 @@ Developed by:s.devi RegisterNumber:25004804
 */
 ```
 **RTL LOGIC UP COUNTER**
+
+up counter
+
 <img width="1920" height="1080" alt="Screenshot 2025-12-15 140020" src="https://github.com/user-attachments/assets/50ad37c9-16e2-44b6-ab20-0f9b47a0d282" />
 
+down counter
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-15 141117" src="https://github.com/user-attachments/assets/df6302a4-9335-4312-af20-613499771c35" />
+
 **TIMING DIAGRAM FOR IP COUNTER**
+
+up counter
+
 <img width="1920" height="1080" alt="Screenshot 2025-12-15 135857" src="https://github.com/user-attachments/assets/c33c99e9-5e25-4c7b-a827-caa55b491bce" />
+
+down counter
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-15 141056" src="https://github.com/user-attachments/assets/307d23d9-a926-4f48-b99e-16537bbb019b" />
 
 **TRUTH TABLE**
 
-<img width="544" height="275" alt="updown-sequance" src="https://github.com/user-attachments/assets/90b497f2-66d4-450c-9809-22f79d868bbd" />
+![table-5-6-2](https://github.com/user-attachments/assets/79ff305f-90b1-47c9-a89c-31ff6a59271f)
 
 **RESULTS**
 
-Thus a 4 bit synchronous up counter is implelmented and its functionality is validated.
+Thus a 4 bit synchronous up counter and down counter is implelmented and its functionality is validated.
